@@ -2,6 +2,9 @@ cadquery-playground
 ===================
 Installation based on [Installing_CQ-editor.md](https://gist.github.com/medicationforall/531220b892661d501de484e6df64fb20), **I intended not to use virtualenvwrapper**
 
+### Notes
+- May just use VSCode extension (as in [.vscode/extensions.json](.vscode/extensions.json)) for better debugging experience
+
 ### Documentation
 - [CadQuery 2 Documentation — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/)
 
