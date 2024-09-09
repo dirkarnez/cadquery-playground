@@ -10,6 +10,10 @@ Installation based on [Installing_CQ-editor.md](https://gist.github.com/medicati
 
 ### Tutorials
 - [MedicationForAll - YouTube](https://www.youtube.com/@MedicationForAll)
+- [Intro To CadQuery Series: Installing CQ-Editor – Jordan Poles](https://blog.jpoles1.com/archives/247)
+
+### Cheatsheet
+- [CadQuery Cheatsheet](https://cadquery.readthedocs.io/en/latest/_static/cadquery_cheatsheet.html)
 
 ### Tools
 - [CadQuery – Open VSX Registry](https://open-vsx.org/extension/roipoussiere/cadquery)
