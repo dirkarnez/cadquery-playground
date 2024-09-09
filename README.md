@@ -11,7 +11,10 @@ Installation based on [Installing_CQ-editor.md](https://gist.github.com/medicati
 ### Tutorials
 - [MedicationForAll - YouTube](https://www.youtube.com/@MedicationForAll)
 - [Intro To CadQuery Series: Installing CQ-Editor – Jordan Poles](https://blog.jpoles1.com/archives/247)
-
+- [Examples — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/examples.html)
+- [API Reference — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/apireference.html)
+- [Introduction — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/intro.html)
+- [API Reference — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/apireference.html#file-management-and-export)
 ### Cheatsheet
 - [CadQuery Cheatsheet](https://cadquery.readthedocs.io/en/latest/_static/cadquery_cheatsheet.html)
 
