@@ -15,6 +15,7 @@ Installation based on [Installing_CQ-editor.md](https://gist.github.com/medicati
 - [API Reference — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/apireference.html)
 - [Introduction — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/intro.html)
 - [API Reference — CadQuery Documentation](https://cadquery.readthedocs.io/en/latest/apireference.html#file-management-and-export)
+
 ### Cheatsheet
 - [CadQuery Cheatsheet](https://cadquery.readthedocs.io/en/latest/_static/cadquery_cheatsheet.html)
 
@@ -30,3 +31,4 @@ Installation based on [Installing_CQ-editor.md](https://gist.github.com/medicati
 - [gumyr/cq_warehouse: A cadquery parametric part collection](https://github.com/gumyr/cq_warehouse)
 - [KiCad / KiCad Libraries / KiCad Packages3D Generator · GitLab](https://gitlab.com/kicad/libraries/kicad-packages3D-generator)
 - [meadiode/cq_gears: CadQuery based involute gear parametric modelling](https://github.com/meadiode/cq_gears)
+- [CadQuery/OCP](https://github.com/CadQuery/OCP)
